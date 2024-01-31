@@ -1,8 +1,50 @@
-# React + Vite
+# Welcome to Movies App!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hey there! 👋 I'm Manu Bharadwaj. If you find this project useful or interesting, don't forget to give it a ⭐️!
 
-Currently, two official plugins are available:
+## About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I'm Manu Bharadwaj, a passionate Software Engineer. 
+
+## Features
+
+- 📦 React & Redux.
+
+## Getting Started
+
+To get started with this project, follow these simple steps:
+
+1.Clone the repository.
+
+2.Start Changing the Code according to your expectations. 
+
+
+## How to Contribute
+
+If you'd like to contribute to this project, follow these steps:
+
+1. Fork the repository
+2. Create a new branch
+3. Make your changes and commit them
+4. Push to your fork and open a pull request
+
+For major changes, please open an issue first to discuss what you would like to change.
+
+## Issues and Support
+
+If you encounter any issues or have questions, feel free to open an issue. I'll do my best to help you out.
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/manu-bharadwaj-3507a345/)
+
+Let's connect and share our thoughts!
+
+---
+
+**If you find this project helpful, please consider giving it a ⭐️!**
+
+Thank you for stopping by! 🌟
+
+
+
