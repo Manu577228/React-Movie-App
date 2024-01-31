@@ -14,9 +14,13 @@ I'm Manu Bharadwaj, a passionate Software Engineer.
 
 To get started with this project, follow these simple steps:
 
-1.Clone the repository.
+1.Clone the repository
+
 2.npm install
-3.Start Changing the Code according to your expectations. 
+
+3. npm run dev
+   
+4.Start Changing the Code according to your expectations 
 
 
 ## How to Contribute
